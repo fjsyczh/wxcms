@@ -1,6 +1,0 @@
-{
-  "usingComponents": {
-    "pmdggl":"/components/pmdggl/pmdggl",
-    "Topmenu":"/components/Topmenu/Topmenu"
-  }
-}
